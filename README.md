@@ -53,7 +53,7 @@ Ez a projekt egy szabványos Laravel alkalmazás. A futtatáshoz szükséged les
     ```bash
     composer install
     npm install
-    npm run dev # vagy npm run build
+    npm run build
     ```
 
 3.  **Környezeti változók beállítása:**
